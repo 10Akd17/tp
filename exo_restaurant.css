@@ -1,0 +1,225 @@
+body{
+    margin:10px 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.container{
+    width: 770px;
+    margin: 0 auto;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+h1{
+
+    text-align: center;
+    letter-spacing: 12px;
+    line-height: 10px;
+}
+h6{
+    text-align: center;
+    color: orange;
+    line-height: 0;
+}
+nav{
+    display: block;
+    text-align: center;
+    line-height: 0;
+    margin-left: -40px;
+    font-size: 0.8em;
+}
+ul li{
+    display: inline-block;
+
+}
+header hr{
+    margin-left: 170px;
+    width: 50%;
+}
+
+main hr{
+    width: 90%;
+    margin-left: 0;
+}
+
+.plat1{
+    margin-left: 25px;
+height: 350px;
+background: url(img_bilan/img/assiette.jpg) no-repeat;
+background-size: 320px;
+
+
+}
+
+/* img{
+    width: 50%;
+    
+} */
+
+/* .plat1 img{
+    width: 250px;
+    margin-left: 69px;
+    display: block;
+    float: left;
+    
+} */
+.plat1 h4{
+float: right;
+margin-right: 150px;
+margin-top: 113px;
+} 
+.plat1 hr{
+    float: right;
+    margin-top: 133px;
+    margin-right: -110px;
+    width: 70%;
+} 
+.plat1 p{
+    float: right;
+    margin-top: 135px;
+    margin-right: -570px;
+}
+/* .plat1 hr{
+    margin-top: 100px;
+    margin-right: 250px;
+} */
+
+.salle{
+    background: url(img_bilan/img/resto_01.jpg) no-repeat;
+    background-size: 50%;
+    background-position-x: right;
+    height: 350px;
+}
+.salle h3{
+    font-family: ;
+    letter-spacing: 3px;
+
+}
+.parag2{
+    margin-top: 89px;
+    float: left;
+    font-size: 0.8rem
+}
+.parag2 mark{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
+
+.service{
+    background: url(img_bilan/img/resto_02.jpg) no-repeat;
+    background-size: 50%;
+    background-position-x: left;
+    height: 350px;
+}
+.service h3{
+    font-family: ;
+    letter-spacing: 3px;
+    float: right;
+    margin-top: -19px;
+    margin-right: 250px;
+
+}
+.parag3{
+    margin-top: 89px;
+    float: right;
+    font-size: 0.8rem
+}
+.parag3 mark{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
+.service hr{
+    margin-left: 400px;
+    width: 40%;
+}
+.service p{
+    margin-left: 400px;
+}
+
+.parag4 {
+    margin-top: 70px;
+    float: left;
+    width: 50%;
+    font-size: 0.8rem
+}
+.parag4 mark{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
+.dressage{
+    background: url(img_bilan/img/resto_03.jpg) no-repeat;
+    background-size: 50%;
+    background-position-x: right;
+    height: 350px;
+}
+.dressage h3{
+    font-family: ;
+    letter-spacing: 3px;
+
+}
+
+.gout{
+    background: url(img_bilan/img/resto_04.jpg) no-repeat;
+    background-size: 50%;
+    background-position-x: left;
+    height: 350px;
+}
+.gout h3{
+    font-family: ;
+    letter-spacing: 3px;
+    float: right;
+    margin-top: -19px;
+    margin-right: 280px;
+
+}
+.parag5{
+    margin-top: 89px;
+    float: right;
+    font-size: 0.8rem
+}
+.parag5 mark{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
+.gout hr{
+    margin-left: 400px;
+    width: 40%;
+}
+.gout p{
+    margin-left: 400px;
+}
+footer{}
+footer img{
+    margin-top: 70px;
+    align-content: center;
+    margin-left: 40%;
+
+}
+
+footer p{
+    margin-top: -75px;
+    letter-spacing: 3.5px;
+    text-align: center;
+}
+footer hr{
+    margin-left: 170px;
+    width: 50%;
+}
+.septime{
+    margin-top: 60px;
+}
+.septime p{
+    margin-top: 1px;
+    font-size: 0.5em;
+    letter-spacing: 1px;
+}
+footer{
+    margin-top: -27px;
+}
+span{
+    margin-left: 32%;
+}
