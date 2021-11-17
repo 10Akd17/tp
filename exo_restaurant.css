@@ -91,7 +91,6 @@ margin-top: 113px;
     height: 350px;
 }
 .salle h3{
-    font-family: ;
     letter-spacing: 3px;
 
 }
@@ -113,7 +112,6 @@ margin-top: 113px;
     height: 350px;
 }
 .service h3{
-    font-family: ;
     letter-spacing: 3px;
     float: right;
     margin-top: -19px;
@@ -156,7 +154,6 @@ margin-top: 113px;
     height: 350px;
 }
 .dressage h3{
-    font-family: ;
     letter-spacing: 3px;
 
 }
@@ -168,7 +165,6 @@ margin-top: 113px;
     height: 350px;
 }
 .gout h3{
-    font-family: ;
     letter-spacing: 3px;
     float: right;
     margin-top: -19px;
@@ -192,7 +188,7 @@ margin-top: 113px;
 .gout p{
     margin-left: 400px;
 }
-footer{}
+
 footer img{
     margin-top: 70px;
     align-content: center;
