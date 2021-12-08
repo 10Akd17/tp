@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Dosis:wght@200&family=Oswald:wght@300;400;500&family=Shadows+Into+Light&family=Texturina:wght@100&display=swap');
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav h1{
+    text-align: center;
+    color: white;
+    font-size: 2.4em;
+    background-color: #29347B;
+    width: 45%;    
+    margin-bottom: 0; 
+
+}
+
+main{
+    display: flex;
+    justify-content: center;   
+}
+section{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    width: 45%; 
+    background-color: #29347B;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+}
